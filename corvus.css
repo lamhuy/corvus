@@ -1,0 +1,42 @@
+.bgDesk{
+    background-image: url('images/desk.jpg');
+}
+
+.bgTree{
+    background-image: url('images/tree.jpg');
+    color: white;
+}
+
+.bgComputer{
+    background-image: url('images/computer.jpg');
+}
+
+.bgSmall{
+    background-image: url('images/tea.jpg');
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    color: white;
+    padding-top: 4px;
+    margin-top: 30px;
+}
+
+.bgLarge{
+    background-image: url('images/bowl.jpg');
+    height: 500px;               
+    color: black;
+    padding-top: 80px;
+    background-size:100% auto;
+    background-repeat: no-repeat;
+}
+
+
+.icon{
+    height: auto;
+    width: 40px;
+}
+
+.brand{
+    font-size:30px;
+    font-weight: bold;
+    color: white;
+}
